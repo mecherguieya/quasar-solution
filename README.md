@@ -1,4 +1,4 @@
-# Touta (touta)
+# Solution Quasar (Quasar)
 
 A Quasar Project
 
